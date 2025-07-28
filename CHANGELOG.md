@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/rvagg/ghreview/compare/v1.0.0...v1.0.1) (2025-07-28)
+
+### Trivial Changes
+
+* bump ([ed0f6d9](https://github.com/rvagg/ghreview/commit/ed0f6d9b16c52566b1238f4b5ccdc362f5660d82))
+
 ## 1.0.0 (2025-07-28)
 
 ### Bug Fixes
