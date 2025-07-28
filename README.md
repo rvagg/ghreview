@@ -8,7 +8,7 @@ GitHub PR-based code review workflow for AI-assisted development.
 
 `ghreview` bridges the gap between AI-assisted coding and GitHub's superior code review interface. It allows you to review AI-generated code changes using GitHub's familiar PR review tools while keeping your local repository pristine.
 
-### Key Benefits
+### Why?
 
 - **Clean local state**: Your working directory remains exactly as it was - no commits, no branch switches, no git operations visible in your project
 - **Familiar workflow**: Use GitHub's excellent PR review interface with inline comments, suggestions, and discussions
@@ -16,7 +16,7 @@ GitHub PR-based code review workflow for AI-assisted development.
 - **Zero footprint**: Creates temporary branches and commits in a separate review repository, immediately cleaning up after pushing
 - **AI-friendly output**: Collects all feedback in a structured format that's easy to paste back to your AI assistant
 
-### How It Works
+### How?
 
 1. You work with your AI assistant and have uncommitted changes in your project
 2. `ghreview init` pushes your current state to a dedicated review repository without affecting your local git state

@@ -39,9 +39,6 @@ jobs:
       - name: Install dependencies
         run: |
           npm install --no-progress --no-save
-      - name: Build
-        run: |
-          npm run build
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
