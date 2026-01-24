@@ -1,3 +1,11 @@
+## [2.0.2](https://github.com/rvagg/ghreview/compare/v2.0.1...v2.0.2) (2026-01-24)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/npm from 13.1.1 to 13.1.3 ([#22](https://github.com/rvagg/ghreview/issues/22)) ([af0c667](https://github.com/rvagg/ghreview/commit/af0c667d507344db882452d7d1bdb9db1a2c2d2e))
+* **deps:** bump actions/checkout from 6.0.1 to 6.0.2 ([#21](https://github.com/rvagg/ghreview/issues/21)) ([ec1303c](https://github.com/rvagg/ghreview/commit/ec1303c5a5fd3003d08648f0b3933815e94335b6))
+* **deps:** bump actions/setup-node from 6.1.0 to 6.2.0 ([#20](https://github.com/rvagg/ghreview/issues/20)) ([55cbebf](https://github.com/rvagg/ghreview/commit/55cbebfff5bab1f5d62bb6013f4ce7910459d66e))
+
 ## [2.0.1](https://github.com/rvagg/ghreview/compare/v2.0.0...v2.0.1) (2026-01-24)
 
 ### Trivial Changes
