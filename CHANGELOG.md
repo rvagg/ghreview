@@ -1,3 +1,27 @@
+## [2.0.0](https://github.com/rvagg/ghreview/compare/v1.0.1...v2.0.0) (2026-01-24)
+
+### ⚠ BREAKING CHANGES
+
+* Config location changed from ~/.ghreview/config.json
+to XDG paths (~/.config/ghreview/config.json on Linux). Move your
+existing config to the new location.
+
+### Features
+
+* add interactive auth and filter resolved comments ([29a8196](https://github.com/rvagg/ghreview/commit/29a81961b5c9ee636552d048f96cc9d59c7ace81))
+
+### Trivial Changes
+
+* **ci:** oidc publishing ([4cef06b](https://github.com/rvagg/ghreview/commit/4cef06b9f64ec067b0363fc230babca74e224395))
+* **deps-dev:** bump @semantic-release/github from 11.0.6 to 12.0.0 ([cef9450](https://github.com/rvagg/ghreview/commit/cef94502b1d00ced4c653b67b0af7b6ff350948b))
+* **deps-dev:** bump @semantic-release/npm from 12.0.2 to 13.1.1 ([c63e419](https://github.com/rvagg/ghreview/commit/c63e419188b913ed866ddf48b7bbbe4c2d2b8f00))
+* **deps-dev:** bump nock from 14.0.7 to 14.0.10 ([a7c98df](https://github.com/rvagg/ghreview/commit/a7c98dfe7840fbd26a5c9c81ed21acd5bfcf7240))
+* **deps:** bump actions/checkout from 4.2.2 to 6.0.1 ([170b48c](https://github.com/rvagg/ghreview/commit/170b48c47bfd6a601037d362b9c3b4e084a83d05))
+* **deps:** bump actions/setup-node from 4.4.0 to 6.1.0 ([61ce2d9](https://github.com/rvagg/ghreview/commit/61ce2d9f083b83562d139de8bcfba985c9017a4a))
+* **deps:** bump chalk from 5.4.1 to 5.6.2 ([948fa9d](https://github.com/rvagg/ghreview/commit/948fa9d78c11b527c4483276e7426b6207084751))
+* **deps:** bump ora from 8.2.0 to 9.0.0 ([8dff5ca](https://github.com/rvagg/ghreview/commit/8dff5ca3d61eb056739422b647d8e7c260967924))
+* fix dependabot config ([4d2b670](https://github.com/rvagg/ghreview/commit/4d2b670cda6b6c975d760ec822f0ce2ca1b337cd))
+
 ## [1.0.1](https://github.com/rvagg/ghreview/compare/v1.0.0...v1.0.1) (2025-07-28)
 
 ### Trivial Changes

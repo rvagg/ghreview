@@ -1,6 +1,6 @@
 {
   "name": "ghreview",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "GitHub PR-based code review workflow for AI-assisted development",
   "type": "module",
   "main": "lib/index.js",
