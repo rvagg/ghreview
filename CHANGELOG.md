@@ -1,3 +1,9 @@
+## [2.0.1](https://github.com/rvagg/ghreview/compare/v2.0.0...v2.0.1) (2026-01-24)
+
+### Trivial Changes
+
+* **deps-dev:** bump nock from 14.0.7 to 14.0.10 ([#5](https://github.com/rvagg/ghreview/issues/5)) ([b979aba](https://github.com/rvagg/ghreview/commit/b979abaad70a259a0d01eb6d8b89eeb0a7707dc6))
+
 ## [2.0.0](https://github.com/rvagg/ghreview/compare/v1.0.1...v2.0.0) (2026-01-24)
 
 ### ⚠ BREAKING CHANGES
