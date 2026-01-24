@@ -1,6 +1,4 @@
 version: 2
-cooldown:
-  default-days: 5
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -9,6 +7,8 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
+    cooldown:
+      default-days: 5
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
@@ -16,3 +16,5 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
+    cooldown:
+      default-days: 5
