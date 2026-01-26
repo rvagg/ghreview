@@ -41,7 +41,7 @@
     "conventional-changelog-conventionalcommits": "^9.0.0",
     "nock": "^14.0.10",
     "standard": "^17.1.2",
-    "vitest": "^3.2.4"
+    "vitest": "^4.0.17"
   },
   "repository": {
     "type": "git",
