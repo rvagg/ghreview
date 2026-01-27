@@ -1,3 +1,11 @@
+## [2.0.3](https://github.com/rvagg/ghreview/compare/v2.0.2...v2.0.3) (2026-01-27)
+
+### Trivial Changes
+
+* **deps-dev:** bump vitest from 3.2.4 to 4.0.17 ([#24](https://github.com/rvagg/ghreview/issues/24)) ([cc8e2e7](https://github.com/rvagg/ghreview/commit/cc8e2e718f2d8e0cbd130fc662286c34d0e032e4))
+* **deps:** bump @octokit/rest from 22.0.0 to 22.0.1 ([#26](https://github.com/rvagg/ghreview/issues/26)) ([24c3e6c](https://github.com/rvagg/ghreview/commit/24c3e6c7d44d2d29785c805f3de93fb3c385427f))
+* **deps:** bump simple-git from 3.28.0 to 3.30.0 ([#25](https://github.com/rvagg/ghreview/issues/25)) ([6466058](https://github.com/rvagg/ghreview/commit/64660586c88d67e1c4b9aa0dd6e1687260a0a986))
+
 ## [2.0.2](https://github.com/rvagg/ghreview/compare/v2.0.1...v2.0.2) (2026-01-24)
 
 ### Trivial Changes
