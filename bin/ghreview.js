@@ -18,9 +18,16 @@ process.on('SIGTERM', () => {
 yargs(hideBin(process.argv))
   .scriptName('ghreview')
   .usage('$0 <command> [args]')
-  .command('init', 'Create a PR for review', {}, async () => {
+  .command('init', 'Create a PR for review', (yargs) => {
+    return yargs.option('all', {
+      alias: 'a',
+      type: 'boolean',
+      default: false,
+      describe: 'Include untracked files (by default, only tracked and staged files are included)'
+    })
+  }, async (argv) => {
     try {
-      await init()
+      await init({ all: argv.all })
     } catch (error) {
       console.error(chalk.red('Error:'), error.message)
       process.exit(1)

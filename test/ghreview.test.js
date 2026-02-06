@@ -23,7 +23,7 @@ describe('ghreview', () => {
       })
 
       // Mock git operations
-      vi.mocked(git.hasUnstagedChanges).mockResolvedValue(true)
+      vi.mocked(git.hasReviewableChanges).mockResolvedValue(true)
       vi.mocked(git.getCurrentBranch).mockResolvedValue('main')
       vi.mocked(git.ensureReviewRemote).mockResolvedValue('review')
       vi.mocked(git.createReviewCommit).mockResolvedValue()
@@ -41,7 +41,7 @@ describe('ghreview', () => {
       await init()
 
       // Verify calls
-      expect(git.hasUnstagedChanges).toHaveBeenCalled()
+      expect(git.hasReviewableChanges).toHaveBeenCalled()
       expect(git.createReviewCommit).toHaveBeenCalled()
       expect(git.pushBranch).toHaveBeenCalledTimes(2) // base and review
       expect(git.resetLastCommit).toHaveBeenCalled()
@@ -53,7 +53,7 @@ describe('ghreview', () => {
         reviewRepo: 'owner/repo',
         githubToken: 'test-token'
       })
-      vi.mocked(git.hasUnstagedChanges).mockResolvedValue(false)
+      vi.mocked(git.hasReviewableChanges).mockResolvedValue(false)
 
       await init()
 
