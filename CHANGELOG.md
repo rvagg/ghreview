@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/rvagg/ghreview/compare/v2.0.4...v3.0.0) (2026-02-07)
+
+### ⚠ BREAKING CHANGES
+
+* only include tracked files in review by default
+
+### Features
+
+* only include tracked files in review by default ([8e20211](https://github.com/rvagg/ghreview/commit/8e20211e48c12ab42e7e170f48478e881930f04d))
+* preserve staging state across review cycle ([6fe2429](https://github.com/rvagg/ghreview/commit/6fe242947623fc4fef3f8e75b1bc7b6baaf60463))
+
 ## [2.0.4](https://github.com/rvagg/ghreview/compare/v2.0.3...v2.0.4) (2026-02-02)
 
 ### Trivial Changes
