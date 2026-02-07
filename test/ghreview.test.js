@@ -26,6 +26,8 @@ describe('ghreview', () => {
       vi.mocked(git.hasReviewableChanges).mockResolvedValue(true)
       vi.mocked(git.getCurrentBranch).mockResolvedValue('main')
       vi.mocked(git.ensureReviewRemote).mockResolvedValue('review')
+      vi.mocked(git.saveIndex).mockResolvedValue('abc123')
+      vi.mocked(git.restoreIndex).mockResolvedValue()
       vi.mocked(git.createReviewCommit).mockResolvedValue()
       vi.mocked(git.pushBranch).mockResolvedValue()
       vi.mocked(git.resetLastCommit).mockResolvedValue()
@@ -42,9 +44,11 @@ describe('ghreview', () => {
 
       // Verify calls
       expect(git.hasReviewableChanges).toHaveBeenCalled()
+      expect(git.saveIndex).toHaveBeenCalled()
       expect(git.createReviewCommit).toHaveBeenCalled()
       expect(git.pushBranch).toHaveBeenCalledTimes(2) // base and review
       expect(git.resetLastCommit).toHaveBeenCalled()
+      expect(git.restoreIndex).toHaveBeenCalledWith('abc123')
       expect(github.createPullRequest).toHaveBeenCalled()
     })
 
