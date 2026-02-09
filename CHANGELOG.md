@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/rvagg/ghreview/compare/v3.0.0...v3.0.1) (2026-02-09)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/github from 12.0.2 to 12.0.3 ([#28](https://github.com/rvagg/ghreview/issues/28)) ([96f0352](https://github.com/rvagg/ghreview/commit/96f035255af6b27e3aee52ccb0062d1a2e4bb8ed))
+* **deps:** bump ghauth from 7.0.0 to 7.0.1 ([#29](https://github.com/rvagg/ghreview/issues/29)) ([86de544](https://github.com/rvagg/ghreview/commit/86de544541047a9105241e12ce84b5427338bd76))
+
 ## [3.0.0](https://github.com/rvagg/ghreview/compare/v2.0.4...v3.0.0) (2026-02-07)
 
 ### ⚠ BREAKING CHANGES
