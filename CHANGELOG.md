@@ -1,3 +1,12 @@
+## [3.0.2](https://github.com/rvagg/ghreview/compare/v3.0.1...v3.0.2) (2026-02-16)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/github from 12.0.3 to 12.0.5 ([#32](https://github.com/rvagg/ghreview/issues/32)) ([f318836](https://github.com/rvagg/ghreview/commit/f3188365c2f177a16f743bda0bc5c6aebcc33fb0))
+* **deps-dev:** bump @semantic-release/npm from 13.1.3 to 13.1.4 ([#30](https://github.com/rvagg/ghreview/issues/30)) ([c6e57be](https://github.com/rvagg/ghreview/commit/c6e57beabf7d85aa971adc9c7b874f4ab8e4606c))
+* **deps-dev:** bump nock from 14.0.10 to 14.0.11 ([#33](https://github.com/rvagg/ghreview/issues/33)) ([7218b14](https://github.com/rvagg/ghreview/commit/7218b148137319869ace06146e09ee4704e79714))
+* **deps:** bump ora from 9.1.0 to 9.3.0 ([#31](https://github.com/rvagg/ghreview/issues/31)) ([1bd35a5](https://github.com/rvagg/ghreview/commit/1bd35a5bf12b836bd72d8274ed79ad0bc1af0c76))
+
 ## [3.0.1](https://github.com/rvagg/ghreview/compare/v3.0.0...v3.0.1) (2026-02-09)
 
 ### Trivial Changes
