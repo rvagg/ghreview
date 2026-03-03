@@ -1,3 +1,9 @@
+## [3.0.4](https://github.com/rvagg/ghreview/compare/v3.0.3...v3.0.4) (2026-03-03)
+
+### Trivial Changes
+
+* **deps:** bump simple-git from 3.31.1 to 3.32.2 ([#36](https://github.com/rvagg/ghreview/issues/36)) ([6837927](https://github.com/rvagg/ghreview/commit/6837927d74c288be3ead5cd1b045923acde77abe))
+
 ## [3.0.3](https://github.com/rvagg/ghreview/compare/v3.0.2...v3.0.3) (2026-02-23)
 
 ### Trivial Changes
