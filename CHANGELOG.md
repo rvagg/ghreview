@@ -1,3 +1,11 @@
+## [3.0.5](https://github.com/rvagg/ghreview/compare/v3.0.4...v3.0.5) (2026-03-09)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/npm from 13.1.4 to 13.1.5 ([#39](https://github.com/rvagg/ghreview/issues/39)) ([403ea1b](https://github.com/rvagg/ghreview/commit/403ea1b549436160e5a8f7e8a5cd0089324be7e6))
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#40](https://github.com/rvagg/ghreview/issues/40)) ([26b9f05](https://github.com/rvagg/ghreview/commit/26b9f05e9cb1d48590e1b836e7af07b9cd3655ba))
+* **deps:** bump simple-git from 3.32.2 to 3.32.3 ([#38](https://github.com/rvagg/ghreview/issues/38)) ([483e1c1](https://github.com/rvagg/ghreview/commit/483e1c118c45f7007432d4f35deaa7902132a827))
+
 ## [3.0.4](https://github.com/rvagg/ghreview/compare/v3.0.3...v3.0.4) (2026-03-03)
 
 ### Trivial Changes
