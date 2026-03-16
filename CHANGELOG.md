@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/rvagg/ghreview/compare/v3.0.5...v3.0.6) (2026-03-16)
+
+### Trivial Changes
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#41](https://github.com/rvagg/ghreview/issues/41)) ([9159eea](https://github.com/rvagg/ghreview/commit/9159eea6a256d26fe62214474b23f9db42678e95))
+* **deps:** bump simple-git from 3.32.3 to 3.33.0 ([#42](https://github.com/rvagg/ghreview/issues/42)) ([1f9283b](https://github.com/rvagg/ghreview/commit/1f9283b6fbb57368863de186124edcb2e30d100f))
+
 ## [3.0.5](https://github.com/rvagg/ghreview/compare/v3.0.4...v3.0.5) (2026-03-09)
 
 ### Trivial Changes
