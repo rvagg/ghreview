@@ -39,7 +39,7 @@
     "@semantic-release/npm": "^13.1.1",
     "@semantic-release/release-notes-generator": "^14.0.3",
     "conventional-changelog-conventionalcommits": "^9.0.0",
-    "nock": "^14.0.10",
+    "nock": "^15.0.0",
     "standard": "^17.1.2",
     "vitest": "^4.0.17"
   },
