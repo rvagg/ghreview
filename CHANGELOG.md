@@ -1,3 +1,13 @@
+## [3.0.9](https://github.com/rvagg/ghreview/compare/v3.0.8...v3.0.9) (2026-04-20)
+
+### Trivial Changes
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#47](https://github.com/rvagg/ghreview/issues/47)) ([98c9e19](https://github.com/rvagg/ghreview/commit/98c9e1909dc8927fe87bddc0ae572e487e0ca20c))
+* **deps-dev:** bump nock from 14.0.11 to 14.0.12 ([#48](https://github.com/rvagg/ghreview/issues/48)) ([95c4aa6](https://github.com/rvagg/ghreview/commit/95c4aa62642d177ab068ce3d3958c2cc63e18115))
+* **deps-dev:** bump vitest from 4.1.1 to 4.1.4 ([#51](https://github.com/rvagg/ghreview/issues/51)) ([8f8e5b9](https://github.com/rvagg/ghreview/commit/8f8e5b9921085a469f4d9b3f94800044032c36c9))
+* **deps:** bump actions/setup-node from 6.2.0 to 6.3.0 ([#37](https://github.com/rvagg/ghreview/issues/37)) ([1e01e36](https://github.com/rvagg/ghreview/commit/1e01e36348c8b3bea8ed354b39376db644748fc1))
+* **deps:** bump simple-git from 3.33.0 to 3.36.0 ([#52](https://github.com/rvagg/ghreview/issues/52)) ([c2819b9](https://github.com/rvagg/ghreview/commit/c2819b936b6459b7feb62e56dc683f754669673f))
+
 ## [3.0.8](https://github.com/rvagg/ghreview/compare/v3.0.7...v3.0.8) (2026-03-30)
 
 ### Trivial Changes
