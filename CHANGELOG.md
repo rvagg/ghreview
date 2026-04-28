@@ -1,3 +1,11 @@
+## [3.0.10](https://github.com/rvagg/ghreview/compare/v3.0.9...v3.0.10) (2026-04-28)
+
+### Trivial Changes
+
+* **deps-dev:** bump nock from 14.0.12 to 14.0.13 ([#55](https://github.com/rvagg/ghreview/issues/55)) ([14d2f61](https://github.com/rvagg/ghreview/commit/14d2f613d09ebf227def2edaa95f7d52ef9ed523))
+* **deps-dev:** bump vitest from 4.1.4 to 4.1.5 ([#54](https://github.com/rvagg/ghreview/issues/54)) ([ef74597](https://github.com/rvagg/ghreview/commit/ef74597992d4101dcb3672b0351ddc1ea1bc9f93))
+* **deps:** bump actions/setup-node from 6.3.0 to 6.4.0 ([#53](https://github.com/rvagg/ghreview/issues/53)) ([e77c991](https://github.com/rvagg/ghreview/commit/e77c991b670a1973df03d80bcd89e9e2677c3f12))
+
 ## [3.0.9](https://github.com/rvagg/ghreview/compare/v3.0.8...v3.0.9) (2026-04-20)
 
 ### Trivial Changes
