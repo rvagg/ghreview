@@ -1,3 +1,12 @@
+## [3.0.13](https://github.com/rvagg/ghreview/compare/v3.0.12...v3.0.13) (2026-05-18)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/github from 12.0.6 to 12.0.8 ([#62](https://github.com/rvagg/ghreview/issues/62)) ([e805292](https://github.com/rvagg/ghreview/commit/e80529264e3a4fa2920fc49db316b4a55efb68bd))
+* **deps-dev:** bump @semantic-release/release-notes-generator ([#61](https://github.com/rvagg/ghreview/issues/61)) ([c5a1580](https://github.com/rvagg/ghreview/commit/c5a158074cd7d791b421969752204c45928461ca))
+* **deps-dev:** bump nock from 14.0.13 to 14.0.15 ([#60](https://github.com/rvagg/ghreview/issues/60)) ([f2a5cb2](https://github.com/rvagg/ghreview/commit/f2a5cb25d4e9efbc1e5ba80e2d1f7362268b82a8))
+* **deps-dev:** bump vitest from 4.1.5 to 4.1.6 ([#59](https://github.com/rvagg/ghreview/issues/59)) ([bba395f](https://github.com/rvagg/ghreview/commit/bba395f50f30259aea451b7c01286346d2072f2d))
+
 ## [3.0.12](https://github.com/rvagg/ghreview/compare/v3.0.11...v3.0.12) (2026-05-11)
 
 ### Trivial Changes
