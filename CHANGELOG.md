@@ -1,3 +1,10 @@
+## [3.0.14](https://github.com/rvagg/ghreview/compare/v3.0.13...v3.0.14) (2026-06-01)
+
+### Trivial Changes
+
+* **deps-dev:** bump vitest from 4.1.6 to 4.1.7 ([#64](https://github.com/rvagg/ghreview/issues/64)) ([3d20f22](https://github.com/rvagg/ghreview/commit/3d20f2202363d2ea958d17ac26877f8e37b6199b))
+* **deps:** bump ghauth from 7.0.3 to 7.0.4 ([#63](https://github.com/rvagg/ghreview/issues/63)) ([f84526d](https://github.com/rvagg/ghreview/commit/f84526d53d32606de52fbd66d8300b61d69697dc))
+
 ## [3.0.13](https://github.com/rvagg/ghreview/compare/v3.0.12...v3.0.13) (2026-05-18)
 
 ### Trivial Changes
