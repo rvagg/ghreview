@@ -1,3 +1,9 @@
+## [3.0.15](https://github.com/rvagg/ghreview/compare/v3.0.14...v3.0.15) (2026-06-22)
+
+### Trivial Changes
+
+* **deps:** bump ghauth from 7.0.4 to 7.0.5 ([#67](https://github.com/rvagg/ghreview/issues/67)) ([675065d](https://github.com/rvagg/ghreview/commit/675065d972f1c119afe5901a9eeafc070a870cd9))
+
 ## [3.0.14](https://github.com/rvagg/ghreview/compare/v3.0.13...v3.0.14) (2026-06-01)
 
 ### Trivial Changes
