@@ -1,3 +1,9 @@
+## [3.0.16](https://github.com/rvagg/ghreview/compare/v3.0.15...v3.0.16) (2026-06-22)
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 6.0.2 to 7.0.0 ([#68](https://github.com/rvagg/ghreview/issues/68)) ([13d3c89](https://github.com/rvagg/ghreview/commit/13d3c898e1294d0111ca6a9c591f4ef15f629e6a))
+
 ## [3.0.15](https://github.com/rvagg/ghreview/compare/v3.0.14...v3.0.15) (2026-06-22)
 
 ### Trivial Changes
