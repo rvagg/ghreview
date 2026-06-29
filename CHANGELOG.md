@@ -1,3 +1,10 @@
+## [3.0.18](https://github.com/rvagg/ghreview/compare/v3.0.17...v3.0.18) (2026-06-29)
+
+### Trivial Changes
+
+* **deps:** bump ghauth from 7.0.5 to 7.0.7 ([#70](https://github.com/rvagg/ghreview/issues/70)) ([49b131a](https://github.com/rvagg/ghreview/commit/49b131a088dee8c60a9a0635909e0af7d75f62ef))
+* **deps:** bump ora from 9.4.0 to 9.4.1 ([#71](https://github.com/rvagg/ghreview/issues/71)) ([32207c4](https://github.com/rvagg/ghreview/commit/32207c4a579688f80fbe48e58214ab41f602f6ea))
+
 ## [3.0.17](https://github.com/rvagg/ghreview/compare/v3.0.16...v3.0.17) (2026-06-22)
 
 ### Trivial Changes
