@@ -1,3 +1,5 @@
+## [3.0.20](https://github.com/rvagg/ghreview/compare/v3.0.19...v3.0.20) (2026-07-06)
+
 ## [3.0.19](https://github.com/rvagg/ghreview/compare/v3.0.18...v3.0.19) (2026-07-06)
 
 ### Trivial Changes
