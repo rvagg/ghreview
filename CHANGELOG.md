@@ -1,3 +1,5 @@
+## [3.0.22](https://github.com/rvagg/ghreview/compare/v3.0.21...v3.0.22) (2026-07-18)
+
 ## [3.0.21](https://github.com/rvagg/ghreview/compare/v3.0.20...v3.0.21) (2026-07-13)
 
 ## [3.0.20](https://github.com/rvagg/ghreview/compare/v3.0.19...v3.0.20) (2026-07-06)
