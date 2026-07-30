@@ -1,3 +1,9 @@
+## [3.0.27](https://github.com/rvagg/ghreview/compare/v3.0.26...v3.0.27) (2026-07-30)
+
+### Bug Fixes
+
+* **ci:** downgrade broken changelog maker; backfill manually ([#83](https://github.com/rvagg/ghreview/issues/83)) ([d9ac711](https://github.com/rvagg/ghreview/commit/d9ac711f841d212dd0ff53341231f69a3e822d4e))
+
 ## [3.0.26](https://github.com/rvagg/ghreview/compare/v3.0.25...v3.0.26) (2026-07-27)
 
 ### Trivial Changes
