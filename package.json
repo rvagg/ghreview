@@ -38,7 +38,7 @@
     "@semantic-release/github": "^12.0.0",
     "@semantic-release/npm": "^13.1.1",
     "@semantic-release/release-notes-generator": "^14.0.3",
-    "conventional-changelog-conventionalcommits": "^10.2.0",
+    "conventional-changelog-conventionalcommits": "^9.3.1",
     "nock": "^14.0.10",
     "standard": "^17.1.2",
     "vitest": "^4.0.17"
@@ -107,6 +107,30 @@
                 "section": "Bug Fixes"
               },
               {
+                "type": "perf",
+                "section": "Performance Improvements"
+              },
+              {
+                "type": "revert",
+                "section": "Reverts"
+              },
+              {
+                "type": "refactor",
+                "section": "Code Refactoring"
+              },
+              {
+                "type": "test",
+                "section": "Tests"
+              },
+              {
+                "type": "build",
+                "section": "Trivial Changes"
+              },
+              {
+                "type": "ci",
+                "section": "Trivial Changes"
+              },
+              {
                 "type": "chore",
                 "section": "Trivial Changes"
               },
@@ -115,8 +139,8 @@
                 "section": "Trivial Changes"
               },
               {
-                "type": "test",
-                "section": "Tests"
+                "type": "style",
+                "section": "Trivial Changes"
               }
             ]
           }
