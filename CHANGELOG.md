@@ -1,16 +1,47 @@
 ## [3.0.26](https://github.com/rvagg/ghreview/compare/v3.0.25...v3.0.26) (2026-07-27)
 
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 3 updates ([#82](https://github.com/rvagg/ghreview/issues/82)) ([04c4b3c](https://github.com/rvagg/ghreview/commit/04c4b3c733955126e8c435d9197b922dd8fae41d))
+
 ## [3.0.25](https://github.com/rvagg/ghreview/compare/v3.0.24...v3.0.25) (2026-07-21)
+
+### Trivial Changes
+
+* **ci:** update to single depsound-action workflow v0.3 ([#81](https://github.com/rvagg/ghreview/issues/81)) ([8b87be3](https://github.com/rvagg/ghreview/commit/8b87be33d81993023c0b37b74fde72c08cecd693))
 
 ## [3.0.24](https://github.com/rvagg/ghreview/compare/v3.0.23...v3.0.24) (2026-07-20)
 
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group across 1 directory with 2 updates ([#80](https://github.com/rvagg/ghreview/issues/80)) ([f407f31](https://github.com/rvagg/ghreview/commit/f407f319d21b9389c631355d8ddb822915415278))
+
 ## [3.0.23](https://github.com/rvagg/ghreview/compare/v3.0.22...v3.0.23) (2026-07-18)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 6.4.0 to 7.0.0 ([#79](https://github.com/rvagg/ghreview/issues/79)) ([79af325](https://github.com/rvagg/ghreview/commit/79af32548f62acb07180e488285552b49b35f997))
 
 ## [3.0.22](https://github.com/rvagg/ghreview/compare/v3.0.21...v3.0.22) (2026-07-18)
 
+### Trivial Changes
+
+* **ci:** tweak dependabot, add depsound, use sha refs ([#78](https://github.com/rvagg/ghreview/issues/78)) ([e9ad334](https://github.com/rvagg/ghreview/commit/e9ad33413707da7ad7e83511ef4604c466dcb927))
+
 ## [3.0.21](https://github.com/rvagg/ghreview/compare/v3.0.20...v3.0.21) (2026-07-13)
 
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/github from 12.0.8 to 12.0.9 ([#74](https://github.com/rvagg/ghreview/issues/74)) ([131b095](https://github.com/rvagg/ghreview/commit/131b095b436ebced375718e1ba49f8a4f5f35700))
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#76](https://github.com/rvagg/ghreview/issues/76)) ([df2a218](https://github.com/rvagg/ghreview/commit/df2a2188654ef966de23c9bc07192ecd5dc17e71))
+* **deps-dev:** bump vitest from 4.1.9 to 4.1.10 ([#77](https://github.com/rvagg/ghreview/issues/77)) ([2e9916c](https://github.com/rvagg/ghreview/commit/2e9916cd18c2fe324d7595fec9b9baa05606d77a))
+* **deps:** bump ghauth from 7.0.7 to 7.0.8 ([#75](https://github.com/rvagg/ghreview/issues/75)) ([c61f4b0](https://github.com/rvagg/ghreview/commit/c61f4b03fbfb89bde396ab46da96daf8442e409f))
+
 ## [3.0.20](https://github.com/rvagg/ghreview/compare/v3.0.19...v3.0.20) (2026-07-06)
+
+### Trivial Changes
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#73](https://github.com/rvagg/ghreview/issues/73)) ([02030d5](https://github.com/rvagg/ghreview/commit/02030d525c48a0b2816c0ced08d8fd65936605df))
 
 ## [3.0.19](https://github.com/rvagg/ghreview/compare/v3.0.18...v3.0.19) (2026-07-06)
 
