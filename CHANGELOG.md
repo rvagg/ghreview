@@ -1,3 +1,9 @@
+## [3.0.29](https://github.com/rvagg/ghreview/compare/v3.0.28...v3.0.29) (2026-08-03)
+
+### Trivial Changes
+
+* **deps:** bump chalk from 5.6.2 to 6.0.0 ([#86](https://github.com/rvagg/ghreview/issues/86)) ([75d3a29](https://github.com/rvagg/ghreview/commit/75d3a29e57fe8b168b1daf3bf74c483911ccbd8e))
+
 ## [3.0.28](https://github.com/rvagg/ghreview/compare/v3.0.27...v3.0.28) (2026-08-03)
 
 ### Trivial Changes
