@@ -1,3 +1,9 @@
+## [3.0.30](https://github.com/rvagg/ghreview/compare/v3.0.29...v3.0.30) (2026-08-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#87](https://github.com/rvagg/ghreview/issues/87)) ([96a009b](https://github.com/rvagg/ghreview/commit/96a009b5ac51dc87d9d5d86dc6238d99c207bd44))
+
 ## [3.0.29](https://github.com/rvagg/ghreview/compare/v3.0.28...v3.0.29) (2026-08-03)
 
 ### Trivial Changes
