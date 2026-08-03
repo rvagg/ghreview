@@ -1,3 +1,9 @@
+## [3.0.31](https://github.com/rvagg/ghreview/compare/v3.0.30...v3.0.31) (2026-08-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.1 ([#85](https://github.com/rvagg/ghreview/issues/85)) ([7c9c7e3](https://github.com/rvagg/ghreview/commit/7c9c7e3d369c071bd2032496b603aa5413e69830))
+
 ## [3.0.30](https://github.com/rvagg/ghreview/compare/v3.0.29...v3.0.30) (2026-08-03)
 
 ### Trivial Changes
