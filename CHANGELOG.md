@@ -1,3 +1,9 @@
+## [3.0.28](https://github.com/rvagg/ghreview/compare/v3.0.27...v3.0.28) (2026-08-03)
+
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#88](https://github.com/rvagg/ghreview/issues/88)) ([8b7512b](https://github.com/rvagg/ghreview/commit/8b7512b6daec30143e81d32525964a89d30d6411))
+
 ## [3.0.27](https://github.com/rvagg/ghreview/compare/v3.0.26...v3.0.27) (2026-07-30)
 
 ### Bug Fixes
