@@ -1,3 +1,9 @@
+## [3.0.34](https://github.com/rvagg/ghreview/compare/v3.0.33...v3.0.34) (2026-10-19)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node ([#93](https://github.com/rvagg/ghreview/issues/93)) ([ff3556e](https://github.com/rvagg/ghreview/commit/ff3556ecc5e1bac41e5241a6a07351987d3d5d47))
+
 ## [3.0.33](https://github.com/rvagg/ghreview/compare/v3.0.32...v3.0.33) (2026-10-01)
 
 ### Trivial Changes
