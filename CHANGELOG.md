@@ -1,3 +1,9 @@
+## [3.0.35](https://github.com/rvagg/ghreview/compare/v3.0.34...v3.0.35) (2026-10-26)
+
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#94](https://github.com/rvagg/ghreview/issues/94)) ([cb73928](https://github.com/rvagg/ghreview/commit/cb739283d96140c9f54b8f29e817de591fb4a6ea))
+
 ## [3.0.34](https://github.com/rvagg/ghreview/compare/v3.0.33...v3.0.34) (2026-10-19)
 
 ### Trivial Changes
