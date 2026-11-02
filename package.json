@@ -28,7 +28,7 @@
     "chalk": "^6.0.0",
     "ghauth": "^7.0.0",
     "ora": "^9.0.0",
-    "simple-git": "^3.28.0",
+    "simple-git": "^4.0.2",
     "yargs": "^18.0.0"
   },
   "devDependencies": {
