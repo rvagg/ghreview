@@ -1,3 +1,9 @@
+## [3.0.37](https://github.com/rvagg/ghreview/compare/v3.0.36...v3.0.37) (2026-11-02)
+
+### Trivial Changes
+
+* **deps-dev:** bump nock from 14.0.17 to 15.0.5 ([#97](https://github.com/rvagg/ghreview/issues/97)) ([8a4dce7](https://github.com/rvagg/ghreview/commit/8a4dce7dac767a2c766aeaf46778694086d1bd81))
+
 ## [3.0.36](https://github.com/rvagg/ghreview/compare/v3.0.35...v3.0.36) (2026-11-02)
 
 ### Trivial Changes
