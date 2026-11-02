@@ -1,3 +1,9 @@
+## [3.0.39](https://github.com/rvagg/ghreview/compare/v3.0.38...v3.0.39) (2026-11-02)
+
+### Trivial Changes
+
+* **deps:** update simple-git@4 ([#101](https://github.com/rvagg/ghreview/issues/101)) ([e8111ae](https://github.com/rvagg/ghreview/commit/e8111ae9d290a7b6aeec049ec374dfaa255b58e0))
+
 ## [3.0.38](https://github.com/rvagg/ghreview/compare/v3.0.37...v3.0.38) (2026-11-02)
 
 ### Trivial Changes
