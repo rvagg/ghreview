@@ -1,3 +1,10 @@
+## [3.0.38](https://github.com/rvagg/ghreview/compare/v3.0.37...v3.0.38) (2026-11-02)
+
+### Trivial Changes
+
+* **deps-dev:** bump vitest from 4.1.10 to 5.0.5 ([#98](https://github.com/rvagg/ghreview/issues/98)) ([50abb8d](https://github.com/rvagg/ghreview/commit/50abb8dbb95a691858b8584c0e4d37b2ffe8cf60))
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#100](https://github.com/rvagg/ghreview/issues/100)) ([9f6c0de](https://github.com/rvagg/ghreview/commit/9f6c0de92a7e4651765eec870f73fa75a28b9079))
+
 ## [3.0.37](https://github.com/rvagg/ghreview/compare/v3.0.36...v3.0.37) (2026-11-02)
 
 ### Trivial Changes
