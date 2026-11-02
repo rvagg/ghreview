@@ -1,3 +1,9 @@
+## [3.0.36](https://github.com/rvagg/ghreview/compare/v3.0.35...v3.0.36) (2026-11-02)
+
+### Trivial Changes
+
+* **deps:** bump the npm-minor-patch group with 2 updates ([#95](https://github.com/rvagg/ghreview/issues/95)) ([e33effb](https://github.com/rvagg/ghreview/commit/e33effb466efd00a9a296cd3f7d4510eef759a28))
+
 ## [3.0.35](https://github.com/rvagg/ghreview/compare/v3.0.34...v3.0.35) (2026-10-26)
 
 ### Trivial Changes
